@@ -20,7 +20,7 @@ function App() {
 	return (
 		<div className="container">
 			<GoogleLogin
-				clientId="366023343940-ndamikr6o5em3sivatijihspjsg8gmt2.apps.googleusercontent.com"
+				clientId="924864910876-g1uk358n1o0c3laauc31ll1639tqm5tj.apps.googleusercontent.com"
 				buttonText="Continuar com o Google"
 				onSuccess={responseGoogle}
 				onFailure={responseGoogle}
